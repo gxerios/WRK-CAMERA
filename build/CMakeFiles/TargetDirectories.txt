@@ -1,0 +1,4 @@
+/home/gelonch/Documents/informatique/WRK-CAMERA/build/CMakeFiles/keyboard.dir
+/home/gelonch/Documents/informatique/WRK-CAMERA/build/CMakeFiles/main.dir
+/home/gelonch/Documents/informatique/WRK-CAMERA/build/CMakeFiles/edit_cache.dir
+/home/gelonch/Documents/informatique/WRK-CAMERA/build/CMakeFiles/rebuild_cache.dir

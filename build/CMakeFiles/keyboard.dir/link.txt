@@ -1,0 +1,2 @@
+/usr/bin/ar qc libkeyboard.a CMakeFiles/keyboard.dir/src/keyboard.cpp.o
+/usr/bin/ranlib libkeyboard.a
